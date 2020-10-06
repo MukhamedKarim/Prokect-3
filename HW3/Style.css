@@ -1,0 +1,334 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600");
+
+
+.header{
+    background:#C9C9CB;
+    background-size:cover;
+    position:relative;  
+    color:#312E35;
+    font-family:"Open Sans",sans-serif;
+    font-size:15px;
+    font-weight:400;
+    
+}
+     
+.header_content{
+    background:url(Pic/header.jpg);
+    background-size: cover;
+    position:relative;  
+    color:#312E35;
+    font-family:"Open Sans",sans-serif;
+    font-size:15px;
+    font-weight:400;
+  
+}
+
+
+.ending{
+    background:url(Pic/flatcard.jpg);
+    background-size:cover;
+    position:relative;  
+    color:#312E35;
+    font-family:"Open Sans",sans-serif;
+    font-size:15px;
+    font-weight:400;
+    
+}
+
+
+.ending_content{
+    background:url(Pic/cactus.jpg);
+    background-size: cover;
+    position:relative;  
+    color:#312E35;
+    font-family:"Open Sans",sans-serif;
+    font-size:15px;
+    font-weight:400;
+  
+}
+
+
+
+.img-styleBox{
+    position:relative;
+    
+    }
+    
+    .img-styleBox .styleBox-img2{
+    position:absolute;
+    bottom:-70px;
+    right:-15px;
+    
+    
+    }
+
+
+
+button:focus{
+    outline:0 !important;
+    box-shadow:none !important
+}
+
+
+
+
+.button1{
+    display:inline-block;
+    background-color:#C9C9CB;
+    color:#5b5c5e;
+    height: auto;
+    width: auto;
+    border-radius:none ;
+    text-transform:capitalize;
+    -webkit-transition:all 0.3s ease 0s;
+    -moz-transition:all 0.3s ease 0s;
+    -o-transition:all 0.3s ease 0s;
+    transition:all 0.3s ease 0s
+}
+            
+@media (min-width: 600px){
+.button{
+    padding:12px 45px
+}
+            
+            
+}
+            
+.button1:hover{
+    background-color:none;
+    color:rgb(218, 16, 16);
+    border:0
+            
+}
+            
+            
+
+            
+button.button1{
+    border:0;
+            
+}
+            
+.button1-contactForm{
+    border-radius:0px
+}
+
+
+
+
+
+.button2{
+    display:inline-block;
+    background-color:#FF825C;
+    color:#fff;
+    height: 40px;
+    width: 90px;
+    border-radius:10px ;
+    text-transform:capitalize;
+    -webkit-transition:all 0.3s ease 0s;
+    -moz-transition:all 0.3s ease 0s;
+    -o-transition:all 0.3s ease 0s;
+    transition:all 0.3s ease 0s
+}
+                
+
+                
+                
+
+                
+.button2:hover{
+    background-color:#a34b30;
+    color:#fff;
+    border:0
+                
+}
+                
+                
+.button2-shadow{
+    box-shadow:-5px 8px 20px 0px rgba(229,16,2,0.15)
+}
+                
+button.button2{
+    border:0;
+                
+}
+                
+.button2-contactForm{
+    border-radius:0px
+}            
+
+
+
+
+
+
+.button3{
+    display:inline-block;
+    background-color:lightgrey;
+    color:rgb(14, 6, 6);
+    height: 70px;
+    width: 450px;
+    border-radius:10px ;
+    text-transform:capitalize;
+    -webkit-transition:all 0.3s ease 0s;
+    -moz-transition:all 0.3s ease 0s;
+    -o-transition:all 0.3s ease 0s;
+    transition:all 0.3s ease 0s
+}
+                
+
+                
+                
+
+                
+.button3:hover{
+    background-color:rgb(124, 124, 124);
+    color:#fff;
+    border:0
+                
+}
+                
+                
+.button3-shadow{
+    box-shadow:-5px 8px 20px 0px rgba(229,16,2,0.15)
+}
+                
+button.button3{
+    border:0;
+                
+}
+                
+.button3-contactForm{
+    border-radius:0px
+}  
+
+
+
+
+
+
+
+
+
+
+.button4{
+    display:inline-block;
+    background-color:rgb(238, 235, 235);
+    color:rgb(14, 6, 6);
+    height: 150px;
+    width: 450px;
+    border-radius:10px ;
+    text-transform:capitalize;
+    -webkit-transition:all 0.3s ease 0s;
+    -moz-transition:all 0.3s ease 0s;
+    -o-transition:all 0.3s ease 0s;
+    transition:all 0.3s ease 0s
+}
+                
+
+                
+        
+
+                
+.button4:hover{
+    background-color:rgb(238, 235, 235);
+    color:#fff;
+    border:0
+                
+}
+                
+                
+.button4-shadow{
+    box-shadow:-5px 8px 20px 0px rgba(229,16,2,0.15)
+}
+                
+button.button4{
+    border:0;
+                
+}
+                
+.button4-contactForm{
+    border-radius:0px
+}  
+
+
+
+
+
+
+
+.button5{
+    
+    font: bold;
+    color:#5b5c5e;
+    height: auto;
+    width: auto;
+    border-radius:none ;
+    text-transform:capitalize;
+    -webkit-transition:all 0.3s ease 0s;
+    -moz-transition:all 0.3s ease 0s;
+    -o-transition:all 0.3s ease 0s;
+    transition:all 0.3s ease 0s
+}
+            
+
+            
+            
+
+            
+.button5:hover{
+    background-color:none;
+    color:rgb(218, 16, 16);
+    border:0
+            
+}
+            
+            
+
+            
+button.button5{
+    border:0;
+            
+}
+            
+.button5-contactForm{
+    border-radius:0px
+}
+
+
+p{
+    color: #080A41;
+    font:bold;
+    font-size: 15px;
+}
+
+
+.p_end{
+    color: #080a4177;
+    font:bold;
+    font-size: 12px;
+}
+
+
+h2{
+    color: #080A41;
+}
+h5{
+    color: #080A41;
+}
+h4{
+    color: #080A41;
+}
+.h5_inf{
+    color: #080a417e;
+    } 
+    
+.h5_ing:hover{
+    background-color:rgb(238, 235, 235);
+    color:rgb(179, 176, 176);
+    border:0;         
+}
+.sponsor{
+     font: bold;
+     color: rgba(0, 0, 0, 0.411);
+}
